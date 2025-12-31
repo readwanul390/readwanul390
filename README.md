@@ -52,6 +52,18 @@ My goal is to grow as a full-stack developer.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/readwanul390)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abusaidhridoy5@gmail.com)
 
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=readwanul390&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readwanul390&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=readwanul390)
+
+
+
 
 
 
