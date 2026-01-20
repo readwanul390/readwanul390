@@ -54,8 +54,14 @@ My goal is to grow as a full-stack developer.
 
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/readwanul390?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/readwanul390?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api?username=readwanul390&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=readwanul390&layout=compact&theme=radical" />
+
+##
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=readwanul390&theme=react-dark" />
+
+
 
 
 
